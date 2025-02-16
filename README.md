@@ -1,2 +1,4 @@
 # My-first-project
-This is my first repository &lt;br> Author: Abhinav Tiwari
+This is my first repository 
+Author: Abhinav Tiwari
+Title: Programming
